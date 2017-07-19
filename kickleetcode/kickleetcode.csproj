@@ -66,6 +66,7 @@
     <Content Include="Problems\Database\N262.sql" />
     <Content Include="Problems\Database\N595.sql" />
     <Content Include="Problems\Database\N596.sql" />
+    <Content Include="Problems\Database\N601.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
