@@ -41,15 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Problems\Algorithm\N1.cs" />
+    <Compile Include="Problems\Algorithm\N2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Problems\Algorithm\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Problems\Database\N185.sql" />
     <Content Include="Problems\Database\N175.sql" />
