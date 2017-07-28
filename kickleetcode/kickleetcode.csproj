@@ -45,6 +45,7 @@
     <Compile Include="Problems\Algorithm\N2.cs" />
     <Compile Include="Problems\Algorithm\N3.cs" />
     <Compile Include="Problems\Algorithm\N4.cs" />
+    <Compile Include="Problems\Algorithm\N5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
