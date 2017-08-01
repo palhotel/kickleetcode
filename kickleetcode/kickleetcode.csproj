@@ -48,6 +48,7 @@
     <Compile Include="Problems\Algorithm\N5.cs" />
     <Compile Include="Problems\Algorithm\N6.cs" />
     <Compile Include="Problems\Algorithm\N7.cs" />
+    <Compile Include="Problems\Algorithm\N8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
