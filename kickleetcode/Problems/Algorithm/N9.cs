@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace kickleetcode.Problems.Algorithm
 {
+    /// <summary>
+    /// Palindrome Number 
+    /// </summary>
     class N9
     {
         public bool IsPalindrome(int x) {
