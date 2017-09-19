@@ -70,6 +70,8 @@
     <Compile Include="Problems\Algorithm\N33.cs" />
     <Compile Include="Problems\Algorithm\N34.cs" />
     <Compile Include="Problems\Algorithm\N35.cs" />
+    <Compile Include="Problems\Algorithm\N36.cs" />
+    <Compile Include="Problems\Algorithm\N37.cs" />
     <Compile Include="Problems\Algorithm\N4.cs" />
     <Compile Include="Problems\Algorithm\N5.cs" />
     <Compile Include="Problems\Algorithm\N6.cs" />
